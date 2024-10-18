@@ -52,7 +52,7 @@ print('Done sending')
 conn.send('Thank you for connecting'.encode())
 conn.close()
 ```
-## OUPUT
+## OUTPUT
 ![WhatsApp Image 2024-04-29 at 14 04 00_5a3102f7](https://github.com/DEVAABISHEK/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/150319305/7b21c0c3-ce74-4a22-bd81-1f25a54fb20b)
 ![WhatsApp Image 2024-04-29 at 13 56 02_79ac47d3](https://github.com/DEVAABISHEK/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/150319305/36a9abd4-ce39-49a5-b66b-6d6088505e2c)
 ## RESULT
